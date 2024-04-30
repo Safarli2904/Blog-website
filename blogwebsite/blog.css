@@ -1,0 +1,52 @@
+.section{
+    background-color: #fff5cf;
+}
+.demos{
+    letter-spacing: 0px;
+}
+
+.demos::before {
+content:"_________";
+}
+
+.demos::after{
+    content:"_________";
+}
+.home{
+    width: auto;
+    height: 500px
+    
+}
+.card{
+ box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;;
+}
+
+.icon{
+    font-size: 80px;
+    margin: auto;
+    margin-top: 10px;
+    
+
+}
+h5 a{
+    text-decoration: none;
+    margin-left: 35px;
+    color: black;
+    
+}
+.features::before{
+content:"_________";
+}
+
+.features::after{
+content:"_________";
+}
+.row{
+     color: black;
+    text-transform: uppercase;
+}
+.row a{
+    color: black;
+    font-weight: bold;
+    
+}
